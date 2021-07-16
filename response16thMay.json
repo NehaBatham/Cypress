@@ -1,0 +1,193 @@
+{
+  "code": 200,
+  "meta": {
+    "pagination": {
+      "total": 1549,
+      "pages": 78,
+      "page": 1,
+      "limit": 20
+    }
+  },
+  "data": [
+    {
+      "id": 7,
+      "name": "Bhagvan Jain",
+      "email": "jain_bhagvan@kuhn.org",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.815+05:30",
+      "updated_at": "2021-05-16T03:50:03.815+05:30"
+    },
+    {
+      "id": 8,
+      "name": "Dharani Varman",
+      "email": "varman_dharani@tromp.info",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.831+05:30",
+      "updated_at": "2021-05-16T03:50:03.831+05:30"
+    },
+    {
+      "id": 9,
+      "name": "Bilva Iyer",
+      "email": "iyer_bilva@torphy-turcotte.com",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.839+05:30",
+      "updated_at": "2021-05-16T03:50:03.839+05:30"
+    },
+    {
+      "id": 11,
+      "name": "Malti Sinha test",
+      "email": "malti_sinha@murray.name",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-05-16T03:50:03.872+05:30",
+      "updated_at": "2021-05-16T16:55:42.429+05:30"
+    },
+    {
+      "id": 13,
+      "name": "Ambar Naik III",
+      "email": "iii_naik_ambar@rolfson-kunze.co",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.894+05:30",
+      "updated_at": "2021-05-16T03:50:03.894+05:30"
+    },
+    {
+      "id": 14,
+      "name": "Brahmabrata Marar",
+      "email": "marar_brahmabrata@prosacco.org",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.900+05:30",
+      "updated_at": "2021-05-16T03:50:03.900+05:30"
+    },
+    {
+      "id": 15,
+      "name": "Vyctor Hugo",
+      "email": "vyctorhugoc@gmail.com.br",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.919+05:30",
+      "updated_at": "2021-05-16T08:33:12.819+05:30"
+    },
+    {
+      "id": 16,
+      "name": "Msgr. Dwaipayan Kakkar",
+      "email": "dwaipayan_kakkar_msgr@ziemann-christiansen.net",
+      "gender": "Male",
+      "status": "Inactive",
+      "created_at": "2021-05-16T03:50:03.948+05:30",
+      "updated_at": "2021-05-16T03:50:03.948+05:30"
+    },
+    {
+      "id": 17,
+      "name": "Vedanga Jha",
+      "email": "jha_vedanga@torphy.org",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.954+05:30",
+      "updated_at": "2021-05-16T03:50:03.954+05:30"
+    },
+    {
+      "id": 18,
+      "name": "Deeptanshu Agarwal",
+      "email": "deeptanshu_agarwal@tremblay.name",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:03.977+05:30",
+      "updated_at": "2021-05-16T03:50:03.977+05:30"
+    },
+    {
+      "id": 21,
+      "name": "Rohan Chaturvedi VM",
+      "email": "rohan_vm_chaturvedi@smitham-simonis.info",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:04.016+05:30",
+      "updated_at": "2021-05-16T03:50:04.016+05:30"
+    },
+    {
+      "id": 23,
+      "name": "Goswamee Bhat",
+      "email": "bhat_goswamee@moen.name",
+      "gender": "Male",
+      "status": "Inactive",
+      "created_at": "2021-05-16T03:50:04.055+05:30",
+      "updated_at": "2021-05-16T03:50:04.055+05:30"
+    },
+    {
+      "id": 25,
+      "name": "Rupinder Varrier",
+      "email": "varrier_rupinder@okuneva-robel.net",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:04.082+05:30",
+      "updated_at": "2021-05-16T03:50:04.082+05:30"
+    },
+    {
+      "id": 27,
+      "name": "Priya Nambeesan Esq.",
+      "email": "priya_nambeesan_esq@ankunding-champlin.net",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:04.111+05:30",
+      "updated_at": "2021-05-16T03:50:04.111+05:30"
+    },
+    {
+      "id": 29,
+      "name": "Ekaksh Varman",
+      "email": "varman_ekaksh@crooks-kertzmann.net",
+      "gender": "Male",
+      "status": "Inactive",
+      "created_at": "2021-05-16T03:50:04.123+05:30",
+      "updated_at": "2021-05-16T03:50:04.123+05:30"
+    },
+    {
+      "id": 30,
+      "name": "Anila Nayar DC",
+      "email": "nayar_dc_anila@hackett.io",
+      "gender": "Male",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:04.132+05:30",
+      "updated_at": "2021-05-16T03:50:04.132+05:30"
+    },
+    {
+      "id": 31,
+      "name": "Sen. Aagneya Ahuja",
+      "email": "aagneya_ahuja_sen@schowalter.name",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-05-16T03:50:04.140+05:30",
+      "updated_at": "2021-05-16T03:50:04.140+05:30"
+    },
+    {
+      "id": 33,
+      "name": "Bhoopat Khatri",
+      "email": "khatri_bhoopat@deckow.info",
+      "gender": "Female",
+      "status": "Inactive",
+      "created_at": "2021-05-16T03:50:04.194+05:30",
+      "updated_at": "2021-05-16T03:50:04.194+05:30"
+    },
+    {
+      "id": 35,
+      "name": "Jitendra Kaul",
+      "email": "kaul_jitendra@jacobson-wisoky.biz",
+      "gender": "Female",
+      "status": "Active",
+      "created_at": "2021-05-16T03:50:04.223+05:30",
+      "updated_at": "2021-05-16T03:50:04.223+05:30"
+    },
+    {
+      "id": 36,
+      "name": "Miss Vidur Asan",
+      "email": "vidur_asan_miss@nolan.biz",
+      "gender": "Male",
+      "status": "Inactive",
+      "created_at": "2021-05-16T03:50:04.237+05:30",
+      "updated_at": "2021-05-16T03:50:04.237+05:30"
+    }
+  ]
+}
